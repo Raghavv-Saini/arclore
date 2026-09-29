@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "items": [
+    {
+      "title": "Explore repository setup signals",
+      "status": "done"
+    },
+    {
+      "title": "Confirm the issue-tracker choice",
+      "status": "in-progress"
+    },
+    {
+      "title": "Confirm triage labels and write domain configuration",
+      "status": "pending"
+    },
+    {
+      "title": "Write the skill configuration files",
+      "status": "pending"
+    }
+  ],
+  "updated_at": "2026-09-29T15:35:18.899Z",
+  "session_id": "01a0edc8-9164-70bf-9560-211a19c98c5e"
+}
